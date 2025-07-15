@@ -3,8 +3,8 @@ package ag.selm.manager.controller;
 
 
 import ag.selm.manager.controller.payload.NewProductPayload;
-import ag.selm.manager.entity.Product;
-import ag.selm.manager.service.ProductService;
+import ag.selm.catalogue.entity.Product;
+import ag.selm.catalogue.service.ProductService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;

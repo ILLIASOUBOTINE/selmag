@@ -2,8 +2,8 @@ package ag.selm.manager.controller;
 
 
 import ag.selm.manager.controller.payload.UpdateProductPayload;
-import ag.selm.manager.entity.Product;
-import ag.selm.manager.service.ProductService;
+import ag.selm.catalogue.entity.Product;
+import ag.selm.catalogue.service.ProductService;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

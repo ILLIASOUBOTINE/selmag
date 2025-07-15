@@ -1,7 +1,7 @@
-package ag.selm.manager.repository;
+package ag.selm.catalogue.repository;
 
 
-import ag.selm.manager.entity.Product;
+import ag.selm.catalogue.entity.Product;
 import org.springframework.stereotype.Repository;
 
 import java.util.Collections;
